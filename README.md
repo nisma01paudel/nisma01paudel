@@ -3,30 +3,25 @@ Hello I am Nisma Paudel,Flutter developer from Nepal Currently doing internship 
 
 I'm 3rd sem Computer engineering student.
 ### My Works
-Internal testing of applications:
-
-[Guess The Flag], [Birthday Wishes], [Category data], [Ludo Master], [Image Converter]
+- Flutter Profile App
+- Interest Calculator App
+- Book Reader App
+- Todo List App
+- Expneses Tracker
+- Internal testing of applications:[Guess The Flag], [Birthday Wishes], [Category data], [Ludo Master], [Image Converter]
 ### Connect with me
 - [Linked In](https://www.linkedin.com/in/nisma-paudel-73a148263/)
 - [Facebook](https://www.facebook.com/npaudel.88)
 - [Instagram](https://www.instagram.com/nismapaudel.88/)
 
 ### Education 
-- Currelntly Studying Comp.eng (2nd yr)3rd sem
-
-  Pokhara Engineering College(PEC)
-  
-- SLC(2022)-2.98
-
-  Capital College And Research Centre(CCRC)
-  
-- SEE(2019)-3.85
-
-   Bhimodaya Seconday School
+- Pokhara Engineering College (2080-2083)
+- Capital College And Research Center(CCRC)(SEE 2076)
+- Shree Bhimodaya Seconday School(SBMS) School(10+2)
   
 ### Experience 
-- Flutter Internship at Thulo Technology
-
+- Flutter Training
+- Flutter Internship at [Thulo Technlogy](https://thulotechnology.com/).
 ### Skills
 - Dart
 - Flutter
@@ -34,3 +29,5 @@ Internal testing of applications:
 - C++
 - DSA
 - SQL
+- Communication
+- Negotiation
