@@ -3,12 +3,12 @@ Hello I am Nisma Paudel,Flutter developer from Nepal Currently doing internship 
 
 I'm 4 th sem Computer engineering student.
 ### My Works
-- Army Training App
-- Flutter Profile App
-- Interest Calculator App
-- Book Reader App
-- Todo List App
-- Expneses Tracker
+- Army Training App- Enhances military readiness with customizable workouts, real-time tracking, tactical drills, and community support.
+- Flutter Profile App-An interactive profile app showcasing my skills and experience.
+- Interest Calculator App- A finance application that computes interest based on user input.
+- Book Reader App- A mobile app for reading digital books with a user-friendly interface.
+- Todo List App- A task management tool that helps you efficiently plan your everyday tasks.
+- Expneses Tracker-A budgeting app for tracking and managing costs.
 - Internal testing of applications:[Guess The Flag], [Birthday Wishes], [Category data], [Ludo Master], [Image Converter]
 ### Connect with me
 - [Linked In](https://www.linkedin.com/in/nisma-paudel-73a148263/)
@@ -24,11 +24,8 @@ I'm 4 th sem Computer engineering student.
 - Flutter Training
 - Flutter Internship at [Thulo Technlogy](https://thulotechnology.com/).
 ### Skills
-- Dart
-- Flutter
-- C
-- C++
-- DSA
-- SQL
-- Communication
-- Negotiation
+-  Programming Languages: Dart, Java, C, C++
+- Mobile Development: Flutter
+- Tools & Technologies: Git, Github
+- Soft Skills: Communication, Team Collaboration, Problem-solving
+
