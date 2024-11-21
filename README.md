@@ -25,7 +25,8 @@ I am currently expanding my skills in:
 - [Instagram](https://www.instagram.com/nismapaudel.88/)
 
 ### Education 
-- Pokhara Engineering College (2080-2083)
+- Pokhara University (NEC) (2081-currently studying)
+- Pokhara University (PEC) (2080-2081)
 - Capital College and Research Center (CCRC) (SEE 2076)
 - Shree Bhimodaya Secondary School (SBMS) (10+2)
   
