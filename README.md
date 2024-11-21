@@ -14,6 +14,7 @@ I am currently a 5th-semester Computer Engineering student.
 
 ### Current Focus
 I am currently expanding my skills in:
+- **AI with Python**
 - **MERN Stack Development**
 - **Flutter Development**
 - **UI/UX Design**
@@ -33,9 +34,9 @@ I am currently expanding my skills in:
 - **Flutter Internship at [Thulo Technology](https://thulotechnology.com/)**
 
 ### Skills
-- **Programming Languages:** Dart, Java, C, C++
+- **Programming Languages:** Dart, Java, C, C++,Python(learning)
 - **Mobile Development:** Flutter
-- **Web Development:** MERN Stack (currently learning)
+- **Web Development:** MERN Stack (currently learning), 
 - **UI/UX Design:** (currently learning)
 - **Tools & Technologies:** Git, GitHub
 - **Soft Skills:** Communication, Team Collaboration, Problem-Solving
