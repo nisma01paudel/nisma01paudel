@@ -19,6 +19,10 @@ I am currently expanding my skills in:
 - **Flutter Development**
 - **UI/UX Design**
 
+### Nature
+- Curious and Driven
+- Slow and Steady
+- Motivated to Contribute
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nisma-paudel-73a148263/)
 - [Facebook](https://www.facebook.com/npaudel.88)
