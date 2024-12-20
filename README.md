@@ -10,7 +10,7 @@ I am currently a 5th-semester Computer Engineering student.
 - **Army Training App:** Enhances military readiness with customizable workouts, real-time tracking, tactical drills, and community support.
 - **Flutter Profile App:** An interactive profile app showcasing my skills and experience.
 - **Interest Calculator App:** A finance application that computes interest based on user input.
-- **Book Reader App:** A mobile app for reading digital books with a user-friendly interface.
+- **Guess The Map App:** A mobile app for guessing maps.
 - **Todo List App:** A task management tool that helps you efficiently plan your everyday tasks.
 - **Expenses Tracker:** A budgeting app for tracking and managing costs.
 - **Internal Testing of Applications:** [Guess The Flag], [Birthday Wishes], [Category Data], [Ludo Master], [Image Converter].
