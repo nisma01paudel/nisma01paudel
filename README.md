@@ -4,9 +4,9 @@ Hello! I am Nisma Paudel, a Flutter developer from Nepal. I have recently comple
 I am currently a 5th-semester Computer Engineering student.
 
 ### My Works
-- **Alarm Clock :** SImple alarm clock after setting time it will ring.
-- **RockPaperScissorsGame:** A fun Game .
-- **Digital Clock:** SHow digital clock.
+- **Alarm Clock with Python:** SImple alarm clock after setting time it will ring.
+- **RockPaperScissorsGame with Python:** A fun Game .
+- **Digital Clock with Python:** SHow digital clock.
 - **Army Training App:** Enhances military readiness with customizable workouts, real-time tracking, tactical drills, and community support.
 - **Flutter Profile App:** An interactive profile app showcasing my skills and experience.
 - **Interest Calculator App:** A finance application that computes interest based on user input.
