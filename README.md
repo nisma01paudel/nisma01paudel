@@ -1,5 +1,5 @@
 ### Nisma Paudel 
-Hello! I am Nisma Paudel, a Flutter developer from Nepal. I have recently completed my internship at Thulo Technology.
+Hello! I am Nisma Paudel, a Flutter developer from Nepal. I have completed my internship at Thulo Technology & learning Omdena' Data Science and Machine Learning with NIC Nepal
 
 I am currently a 5th-semester Computer Engineering student.
 
