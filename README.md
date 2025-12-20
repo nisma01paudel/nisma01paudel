@@ -1,7 +1,7 @@
 ### Nisma Paudel 
 Hello! I am Nisma Paudel, a Flutter developer from Nepal. I have completed my internship at Thulo Technology & learning Omdena' Data Science and Machine Learning with NIC Nepal
 
-I am currently a 5th-semester Computer Engineering student.
+I am currently a 7th-semester Computer Engineering student.
 
 ### My Works
 - **Alarm Clock with Python:** SImple alarm clock after setting time it will ring.
