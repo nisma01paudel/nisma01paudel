@@ -1,51 +1,74 @@
-### Nisma Paudel 
-Hello! I am Nisma Paudel, a Flutter developer from Nepal. I have completed my internship at Thulo Technology & learning Omdena' Data Science and Machine Learning with NIC Nepal
+<h1 align="center">Hi 👋, I'm Nisma Paudel</h1>
+<h3 align="center">Flutter Developer | AI/ML Enthusiast | Computer Engineering Student</h3>
 
-I am currently a 7th-semester Computer Engineering student.
+---
 
-### My Works
-- **Alarm Clock with Python:** SImple alarm clock after setting time it will ring.
-- **RockPaperScissorsGame with Python:** A fun Game .
-- **Digital Clock with Python:** SHow digital clock.
-- **Army Training App:** Enhances military readiness with customizable workouts, real-time tracking, tactical drills, and community support.
-- **Flutter Profile App:** An interactive profile app showcasing my skills and experience.
-- **Interest Calculator App:** A finance application that computes interest based on user input.
-- **Guess The Map App:** A mobile app for guessing maps.
-- **Todo List App:** A task management tool that helps you efficiently plan your everyday tasks.
-- **Expenses Tracker:** A budgeting app for tracking and managing costs.
-- **Internal Testing of Applications:** [Guess The Flag], [Birthday Wishes], [Category Data], [Ludo Master], [Image Converter].
+### 👩‍💻 About Me
+Hello! I’m Nisma Paudel, a Computer Engineering student from Nepal with hands-on experience in Flutter development, AI/ML, and Data Science.  
 
-### Current Focus
-I am currently expanding my skills in:
-- **AI with Python**
-- **MERN Stack Development**
-- **Flutter Development**
-- **UI/UX Design**
+I have completed my internship at Thulo Technology and worked as a Data Science trainee with Omdena (NIC Nepal), where I got exposure to real-world projects and collaborative workflows.  
 
-### Nature
-- Curious and Driven
-- Slow and Steady
-- Motivated to Contribute
+I enjoy building practical applications and continuously improving my skills through hands-on learning.
 
-### Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/nisma-paudel-73a148263/)
-- [Facebook](https://www.facebook.com/npaudel.88)
-- [Instagram](https://www.instagram.com/nismapaudel.88/)
+---
 
-### Education 
-- Pokhara University (NEC) (2081-currently studying)
-- Pokhara University (PEC) (2080-2081)
-- Capital College and Research Center (CCRC) (SEE 2076)
-- Shree Bhimodaya Secondary School (SBMS) (10+2)
-  
-### Experience 
-- **Flutter Training**
-- **Flutter Internship at [Thulo Technology](https://thulotechnology.com/)**
+### 🚀 What I Do
+- 📱 Build cross-platform mobile apps using Flutter  
+- 🤖 Explore AI/ML and data-driven solutions  
+- 🧠 Learn and apply new technologies in real-world scenarios  
 
-### Skills
-- **Programming Languages:** Dart, Java, C, C++,Python(learning)
-- **Mobile Development:** Flutter
-- **Web Development:** MERN Stack (currently learning), 
-- **UI/UX Design:** (currently learning)
-- **Tools & Technologies:** Git, GitHub
-- **Soft Skills:** Communication, Team Collaboration, Problem-Solving
+---
+
+### 🛠️ Skills & Technologies
+
+**Languages:**  
+Python • Dart • Java • C • C++ • SQL  
+
+**AI / Data Science:**  
+Pandas • Scikit-learn • NLP • HuggingFace • Matplotlib  
+
+**Mobile Development:**  
+Flutter (Dart)  
+
+**Tools:**  
+Git • GitHub • Streamlit  
+
+---
+
+### 📌 Selected Projects
+- 🔹 AI-based systems using NLP and Machine Learning  
+- 🔹 Climate data analysis and prediction models  
+- 🔹 Multiple Flutter apps (productivity, finance, and utility based)  
+
+---
+
+### Currently Learning
+- Advanced Machine Learning  
+- Deep Learning basics  
+- Improving Flutter architecture and UI/UX  
+
+---
+
+### 💼 Experience
+- **Flutter Developer Intern** – Thulo Technology Pvt. Ltd.  
+- **Data Science Trainee** – Omdena (NIC Nepal)  
+
+---
+
+### Goals
+- Build impactful AI/ML systems  
+- Develop scalable mobile applications  
+- Grow through real-world problem solving  
+
+---
+
+### 🌐 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/paudelnisma/  
+- GitHub: https://github.com/nisma01paudel  
+- Facebook: https://www.facebook.com/npaudel.88  
+- Instagram: https://www.instagram.com/niiiis_ma/  
+
+---
+
+### ⚡ Fun Fact
+I enjoy turning ideas into real applications.
