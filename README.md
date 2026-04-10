@@ -1,80 +1,71 @@
 <h1 align="center">Hi 👋, I'm Nisma Paudel</h1>
-<h3 align="center">Flutter Developer | AI/ML Enthusiast | Computer Engineering Student</h3>
 
 <p align="center">
-Building real-world mobile apps with Flutter & exploring AI/ML .
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=0E75B6&center=true&vCenter=true&width=500&lines=Flutter+Developer;AI%2FML+Enthusiast;Computer+Engineering+Student;Building+Real-World+Applications" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nisma01paudel&label=Profile%20views&color=0e75b6&style=flat" alt="nisma01paudel" />
+  <img src="https://komarev.com/ghpvc/?username=nisma01paudel&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nisma01paudel&theme=flat&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nisma01paudel&theme=flat&no-frame=true&margin-w=8" />
 </p>
 
 ---
 
 ###  About Me
-- 🎓 Computer Engineering student (Nepal Engineering College)  
-- 📱 Flutter Developer Intern at **Thulo Technology Pvt. Ltd.**  
-- 🤖 Data Science Trainee at **Omdena (NIC Nepal)**  
-- 💡 Interested in building real-world AI/ML systems and scalable mobile apps  
+- 🎓 Computer Engineering student @ Nepal Engineering College  
+- 📱 Flutter Developer Intern @ **Thulo Technology Pvt. Ltd.**  
+- 🤖 Data Science Trainee @ **Omdena (NIC Nepal)**  
+- 🚀 Passionate about building real-world apps & AI-powered systems  
 
 ---
 
 ###  What I Do
-- 📱 Cross-platform mobile app development using Flutter  
-- 🤖 Exploring Machine Learning, NLP, and Data Science  
-- 🛠️ Building practical, real-world projects  
+- 📱 Build cross-platform mobile apps using Flutter  
+- 🤖 Work on Machine Learning, NLP & data-driven systems  
+- 🛠️ Turn ideas into real-world solutions  
 
 ---
 
 ###  Tech Stack
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,dart,flutter,java,cpp,c,git,github,firebase,mysql,figma" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 ---
 
-###  Highlight Areas
-- 🔹 AI/ML & NLP-based systems  
-- 🔹 Data analysis and predictive modeling  
-- 🔹 Flutter mobile applications (productivity, utility, finance)  
+### 📌 Focus Areas
+- 🔹 AI/ML & NLP systems  
+- 🔹 Data analysis & prediction  
+- 🔹 Scalable Flutter applications  
 
 ---
 
 ### Currently Learning
 - Deep Learning & advanced ML  
-- System design & scalable applications  
-- Better UI/UX practices in Flutter  
+- System Design  
+- Advanced Flutter architecture  
 
 ---
 
-### 🤝 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/paudelnisma/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+### Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/paudelnisma/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
-<a href="https://www.facebook.com/npaudel.88" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+<a href="https://github.com/nisma01paudel">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
 </a>
-<a href="https://www.instagram.com/niiiis_ma/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<a href="https://www.instagram.com/niiiis_ma/">
+<img src="https://skillicons.dev/icons?i=instagram" width="40"/>
 </a>
 </p>
 
@@ -83,15 +74,23 @@ Building real-world mobile apps with Flutter & exploring AI/ML .
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nisma01paudel&show_icons=true&locale=en" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisma01paudel" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nisma01paudel&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nisma01paudel&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nisma01paudel&show_icons=true&locale=en&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nisma01paudel&layout=compact" />
+</p>
+
+---
+
+### 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
 ### ⚡ Fun Fact
-I enjoy turning ideas into real-world applications .
+I enjoy turning ideas into real-world applications 
