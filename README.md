@@ -29,6 +29,21 @@
 
 ---
 
+### 📌 Featured Projects
+
+- 🤖 **AI-based Recruiting System (JobPath)**  
+  NLP-based system that matches resumes with job descriptions using transformer models  
+
+- 🌍 **Climate Change Prediction System**  
+  Machine learning pipeline for analyzing and predicting environmental data  
+
+- 💸 **DhukutiPay (Offline Payment App)**  
+  Flutter-based secure payment system using digital signatures and cryptography  
+
+- 📱 **Flutter Applications**  
+  Built multiple apps including expense tracker, todo app, and utility-based tools  
+
+---
 ###  Tech Stack
 
 <p align="center">
