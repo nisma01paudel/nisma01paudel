@@ -15,32 +15,32 @@
 ---
 
 ###  About Me
-- 🎓 Computer Engineering student @ Nepal Engineering College  
-- 📱 Flutter Developer Intern @ **Thulo Technology Pvt. Ltd.**  
-- 🤖 Data Science Trainee @ **Omdena (NIC Nepal)**  
-- 🚀 Passionate about building real-world apps & AI-powered systems  
+-  Computer Engineering student @ Nepal Engineering College  
+-  Flutter Developer Intern @ **Thulo Technology Pvt. Ltd.**  
+-  Data Science Trainee @ **Omdena (NIC Nepal)**  
+-  Passionate about building real-world apps & AI-powered systems  
 
 ---
 
 ###  What I Do
-- 📱 Build cross-platform mobile apps using Flutter  
-- 🤖 Work on Machine Learning, NLP & data-driven systems  
-- 🛠️ Turn ideas into real-world solutions  
+- Build cross-platform mobile apps using Flutter  
+-  Work on Machine Learning, NLP & data-driven systems  
+-  Turn ideas into real-world solutions  
 
 ---
 
 ### 📌 Featured Projects
 
-- 🤖 **AI-based Recruiting System (JobPath)**  
+-  **AI-based Recruiting System (JobPath)**  
   NLP-based system that matches resumes with job descriptions using transformer models  
 
-- 🌍 **Climate Change Prediction System**  
+-  **Climate Change Prediction System**  
   Machine learning pipeline for analyzing and predicting environmental data  
 
-- 💸 **DhukutiPay (Offline Payment App)**  
+-  **DhukutiPay (Offline Payment App)**  
   Flutter-based secure payment system using digital signatures and cryptography  
 
-- 📱 **Flutter Applications**  
+-  **Flutter Applications**  
   Built multiple apps including expense tracker, todo app, and utility-based tools  
 
 ---
